@@ -1,0 +1,2 @@
+chmod +x nnet
+python nnet.py $1 $2 $3 $4 $5
